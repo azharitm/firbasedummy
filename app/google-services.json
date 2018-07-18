@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021446238172",
+    "firebase_url": "https://dummy-ce431.firebaseio.com",
+    "project_id": "dummy-ce431",
+    "storage_bucket": "dummy-ce431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021446238172:android:61dde4dd07bc6e55",
+        "android_client_info": {
+          "package_name": "com.azhar.youtubedummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021446238172-0spd7bcqpsca6rs49fbq9jkkt4e04kq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azhar.youtubedummy",
+            "certificate_hash": "4f4d2f345633b082d65a8c06e8ebb29d09300d61"
+          }
+        },
+        {
+          "client_id": "1021446238172-sc8l5nqbs85dttl28ac0ti8acdrukalj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZDZDl8WsOhJVnEXLw8epAgS6gUh2gGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021446238172-sc8l5nqbs85dttl28ac0ti8acdrukalj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
